@@ -81,7 +81,7 @@ Studio Projects provides centralized file storage and management.
 Check files out when the workflow requires exclusive editing, and check them back in when finished.
 See the [Projects overview](https://support.bluebeam.com/studio/resources/learn-about-studio-projects.html) for document organization.
 
-![Shared drawing review with participant markups and a structured review record](docs/pp2.jpg)
+![Shared drawing review with participant markups and a structured review record](docs/pp2.png)
 
 **Keep a drawing identifier**
 
